@@ -1,0 +1,67 @@
+
+
+.container-flight{
+    width: 178%;
+    height: 650px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    
+    
+}
+
+.container-update{
+    width: 258%;
+    height: 650px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    position: relative;
+}
+
+.container-aeroplane{
+  width: 260%;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+}
+
+/* Create two equal columns that floats next to each other */
+.column-flight {
+    float: left; 
+    width: 50%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+  }
+  
+  /* Clear floats after the columns */
+  .row-flight:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  #button-flight{
+    background-color: darkslategray;
+    color: white;
+    height: 50px;
+    width: 100px;
+    text-align: right;
+    border: solid 1px white;
+  }
+  #button-flight-1{
+    background-color: darkslategray;
+    color: white;
+    height: 50px;
+    width: 100px;
+    text-align: right;
+    border: solid 1px white;
+    margin-left: 65%;
+  }
+
+  #feildlable{
+    color: rgb(0, 0, 0);
+
+    
+  }
+ 
+ 
+ 

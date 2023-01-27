@@ -1,0 +1,86 @@
+
+h1 {
+  text-align: center;
+
+}
+
+.container {
+  width:fit-content;
+  margin:auto;
+  background-color: rgba(80, 203, 86, 0.897);
+  justify-content: center;
+
+}
+
+.grid td {
+  width: 70px;
+  height: 35px;
+  border: 2px solid rgb(232, 230, 226);
+  text-align: center;
+  align-content: center;
+  float: left;
+  margin: 15px;
+
+}
+table {
+  width: 100%;
+  border: 2px solid rgb(232, 230, 226);
+}
+
+.grid tr {
+
+  border: 3px solid rgb(232, 230, 226);
+  align-content: center;
+  margin: 15px;
+
+}
+.grid tbody
+{
+  justify-content: center;
+  align-content: center;
+ 
+}
+
+.container
+{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.grid td:hover {
+  opacity: 0.7;
+  cursor: pointer;
+}
+
+
+.reserved {
+  background: rgb(199, 46, 29);
+  color: #fff;
+  display: inline-block;
+}
+
+.selected {
+  background: rgb(102, 177, 239);
+  color: #fff;
+  display: inline-block;
+}
+
+
+.available {
+  color: rgb(28, 27, 27);
+}
+
+header
+{
+  background-color: darkslategray;
+  padding: 5px;
+  text-align: center;
+
+}
+
+.btnmargin {
+  margin-top: 50px;
+  font-size: 20px;
+  align-items:flex-start;
+
+}

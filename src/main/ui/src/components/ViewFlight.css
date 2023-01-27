@@ -1,0 +1,27 @@
+/* body {
+  display: flex;
+  /* width: 130vw; */
+  /* display:flex;
+  border: 1px solid #e9ecef;
+  border-radius: 5px;
+  box-shadow: 1px 3px 10px #e9ecef; 
+  background-color: rgb(255, 255, 255);
+} */ 
+
+.table-container{
+    
+
+    height: 630px;
+    top: 80px;
+    background-color: rgb(255, 255, 255);
+}
+
+#button-delete {
+  /* margin: 0px; */
+  width: 70px;
+  height: 30px;
+
+}
+
+
+  

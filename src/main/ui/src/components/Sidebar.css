@@ -1,0 +1,77 @@
+.active{
+  margin-left: 10%;
+  display: block;
+  visibility: visible;
+}
+
+.inactive{
+  visibility: hidden;
+}
+
+#icon1{
+  font-size: 13px;
+  color: white;
+}
+
+#heading{
+  color: white;
+  margin-left: 47px;
+  font-size: 15px;
+}
+
+#icon-button{
+  color: white;
+}
+
+#icon-button-1{
+  color: white;
+  font-size: 27px;
+  text-align: right;
+  float: left;
+  margin-left: 80%;
+  margin-right: 15px;
+  margin-top: 10px;
+}
+
+#icon-button-2{
+  color: white;
+  
+}
+
+
+.popup-content {
+  position: absolute;
+  margin: auto;
+  background: rgb(255, 255, 255);
+  padding: 5px;
+}
+.popup-arrow {
+  color: rgb(255, 255, 255);
+}
+[role='tooltip'].popup-content {
+  
+  position: fixed;
+  cursor: pointer;
+  margin-top: 80px;
+  width: 200px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 0px 3px;
+ 
+}
+
+.popup-overlay {
+  background: rgba(0, 0, 0, 0.5);
+}
+[data-popup='tooltip'].popup-overlay {
+  background: transparent;
+}
+
+.profile-container{
+  width: 400px;
+}
+
+#name{
+  font-size: 20px;
+  width: 100px;
+  margin-top: 15px;
+  margin-left: 10px;
+}

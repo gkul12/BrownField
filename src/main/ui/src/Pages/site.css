@@ -1,0 +1,113 @@
+.btn-blue {
+  background-color: black;
+}
+.img{
+height: 100%;
+margin-top: 350px;
+width: 2200px;
+
+}
+
+.search-container{
+  top: 40px;
+  /* height: 500px; */
+}
+
+.col-lg-4{
+  margin-left: 45px;
+}
+.col-lg-8{
+  margin-left: 45px;
+  /* height: 40px; */
+}
+.bg-gray {
+  background-color: #dddde5;
+}
+
+.btn-gray {
+  background-color: #dddde5;
+}
+
+.fs-8 {
+  font-size: 12px;
+  color: darkslategrey;
+}
+
+.bg-blue {
+  background-color: #ffffff;
+  width: 1000px;
+}
+
+.form-label{
+  margin-left: 20px;
+  width: 200px;
+  font-size: 25px;
+}
+.flightimg {
+  background-image: url("../images/air.jpg");
+  background-position: center;
+  height: 1000px;
+  background-size: cover;
+}
+.btn-secondary{
+  background-color: darkslategrey;
+  width: 140px;
+  height: 40px;
+  font-size: 10pxs;
+  margin-top: 15px;
+}
+.bg-sm-blue{background-color: #ffffff;}
+
+.container-fluid{
+  
+  margin-top: 260px;
+  width: 80%;
+  color: darkslategrey;
+}
+
+.brownFeild{
+  color: darkslategrey;
+}
+.flightimg{
+   width: fit-content;
+}
+
+.col-md col-6 col-sm-5 border{
+  margin-right: 300px;
+  font-size: larger;
+  font-weight: bold;
+}
+.site-row{
+  width: 1080px;
+  background-color: rgb(255, 255, 255);
+  color: darkslategrey;
+  border: solid 2px darkslategrey;
+}
+
+.row{
+  width: 1310px;
+  background-color: rgb(255, 255, 255);
+  color: darkslategrey;
+  margin-left: 5px;
+  
+}
+
+#economy{
+  border: 15px;
+  font-weight: bold;
+  border-radius: 3px;
+  
+}
+#business
+{
+  border: 15px;
+  font-weight: bold; 
+}
+
+.accod{
+  margin-top: 100px;
+}
+
+.label-2{
+  font-size: 14px;
+}
