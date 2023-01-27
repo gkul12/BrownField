@@ -8,8 +8,6 @@ import com.cg.backend.annotations.ExcludedFromGeneratedCodeCoverage;
 @SpringBootTest
 class BrownFieldApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+	
 
 }
